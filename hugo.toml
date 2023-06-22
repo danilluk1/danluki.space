@@ -1,0 +1,6 @@
+baseURL = 'http://danluki.space/'
+languageCode = 'en-us'
+title = 'Danil Lukinykh aka danluki'
+theme = "paperMod"
+[markup.goldmark.renderer]
+  unsafe = true
